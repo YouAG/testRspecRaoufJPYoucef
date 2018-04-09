@@ -26,3 +26,5 @@ end
 def voyelle(letter)
   "aeiouy".include? letter
 end
+
+#c'etait dur dur dur , merci Google et la documentation Ruby : https://ruby-doc.org/core-2.2.0/Array.html#method-i-map-21
