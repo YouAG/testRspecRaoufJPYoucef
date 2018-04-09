@@ -14,3 +14,5 @@ class Timer
 
 
 end
+
+#bon , ça ça nous a pris grave du temps, mais on a decouvert cette petite methode bien sympa = sprintf ; pour l'expliquer c'est pas encore super super clair pour nous, mais ca marche !!
