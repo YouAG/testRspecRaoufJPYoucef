@@ -14,3 +14,5 @@ t = s.split.map { |x|
 t.first.capitalize!
 t.join(" ")
 end
+
+#merci à la methode include? ...  sa mère c'etait hard !
