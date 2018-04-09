@@ -76,6 +76,7 @@ describe "Simon says" do
   end
 
   describe "titleize" do
+    
     it "capitalizes a word" do
       expect(titleize("jaws")).to eq("Jaws")
     end
